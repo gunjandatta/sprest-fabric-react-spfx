@@ -1,2 +1,4 @@
 # sprest-fabric-react-spfx
-SPFX project converted from the SP Add-In demo
+Examples of the Office Fabric components using the react framework, in a SPFX webpart.
+
+This project is referenced from this [blog post](http://dattabase.com/sharepoint-app-fabric-ui-react-part-3-3/).
