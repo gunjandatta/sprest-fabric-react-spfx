@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "sprest-fabric-react-spfx",
+    "libraryId": "8eb7da11-12e0-4c82-aeca-c9151aaedc27",
+    "environment": "spo"
+  }
+}

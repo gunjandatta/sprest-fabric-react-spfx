@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sprest-fabric-react-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/sprestFabricReact/SprestFabricReactWebPart.js",
+          "manifest": "./src/webparts/sprestFabricReact/SprestFabricReactWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SprestFabricReactWebPartStrings": "lib/webparts/sprestFabricReact/loc/{locale}.js"
+  }
+}

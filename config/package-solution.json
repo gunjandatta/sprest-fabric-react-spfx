@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sprest-fabric-react-spfx-client-side-solution",
+    "id": "8eb7da11-12e0-4c82-aeca-c9151aaedc27",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sprest-fabric-react-spfx.sppkg"
+  }
+}
